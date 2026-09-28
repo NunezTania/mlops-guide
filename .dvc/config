@@ -1,0 +1,6 @@
+[core]
+    remote = data
+['remote "origin/main"']
+    url = https://github.com/NunezTania/mlops-guide.git
+['remote "data"']
+    url = gs://tnz-bucket/dvcstore
