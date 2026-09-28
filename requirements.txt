@@ -1,4 +1,4 @@
-jupyterlab
+tensorflow
 matplotlib
 scikit-learn
-tensorflow
+pyyaml
