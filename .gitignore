@@ -7,6 +7,9 @@ evaluation/
 # The models
 model/
 
+# DVC Plots
+dvc_plots/
+
 ## Python
 .venv/
 
