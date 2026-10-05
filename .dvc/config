@@ -3,4 +3,4 @@
 ['remote "origin/main"']
     url = https://github.com/NunezTania/mlops-guide.git
 ['remote "data"']
-    url = gs://tnz-bucket/dvcstore
+    url = gs://mlops-guide-tnz-bucket/dvcstore
